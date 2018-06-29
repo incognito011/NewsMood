@@ -273,7 +273,7 @@ plt.show()
 ```
 
 
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/37307811/42093170-65d1f404-7b79-11e8-9e9b-1f57d0575753.png)
 
 
 # Overall Media Sentiment Based on Twitter
@@ -306,5 +306,4 @@ plt.show()
 ```
 
 
-![png](output_12_0.png)
-
+![output_12_0](https://user-images.githubusercontent.com/37307811/42093178-6c4610e0-7b79-11e8-8990-23e45ae246b2.png)
